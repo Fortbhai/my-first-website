@@ -1,11 +1,7 @@
-# Documentation Portal
+# MY FIRST WEBSITE
 
-Welcome to our official developer hub. Here you can access comprehensive API references, tutorials, and community guides to integrate our platform into your workflow seamlessly.
-
-- **Quick Start Guide**: Get up and running in less than five minutes.
-- **API Reference**: Detailed endpoints, rate limits, and authentication protocols.
-- **Community Forum**: Connect with other developers and share your projects.
-
+HELLO EVERYONE THIS IS ME TIRTHA U CAN CALL ME AS <FORT>
+actually u can say that i have not done anything just done the turtorial and the turtorial is good for begginer
 
 ## Preview
 
