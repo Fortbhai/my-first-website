@@ -5,24 +5,20 @@ A beginner portfolio project built to on my knowledge in HTML and web developmen
 This site showcases my introduction, skills, and contact information in a simple, clean format.
 its look cool but it dont have any css and java script
 
----
 
-## ✨ Features
+
+##  Features
+-This project is a personal portfolio and learning exercise
 - Personal introduction and background
 - Skills list
 - Contact detail
 - Beginner-friendly HTML structure
 
----
 
-
-
----
-
-## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Fortbhai/my-first-website.git
+## Why I Built It
+- To learn how to create and edit HTML files.
+ To learn more about cooding.
+- To have a portfolio which is created by my own.
 
 ## Preview
 
